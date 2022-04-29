@@ -1,0 +1,12 @@
+D:\Lavoro\microservices-alt\microservices\microservices.Email.Persistence.Adapter\bin\Debug\net6.0\microservices.Email.Persistence.Adapter.deps.json
+D:\Lavoro\microservices-alt\microservices\microservices.Email.Persistence.Adapter\bin\Debug\net6.0\microservices.Email.Persistence.Adapter.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Email.Persistence.Adapter\bin\Debug\net6.0\microservices.Email.Persistence.Adapter.pdb
+D:\Lavoro\microservices-alt\microservices\microservices.Email.Persistence.Adapter\obj\Debug\net6.0\microservices.Email.Persistence.Adapter.csproj.AssemblyReference.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Email.Persistence.Adapter\obj\Debug\net6.0\microservices.Email.Persistence.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lavoro\microservices-alt\microservices\microservices.Email.Persistence.Adapter\obj\Debug\net6.0\microservices.Email.Persistence.Adapter.AssemblyInfoInputs.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Email.Persistence.Adapter\obj\Debug\net6.0\microservices.Email.Persistence.Adapter.AssemblyInfo.cs
+D:\Lavoro\microservices-alt\microservices\microservices.Email.Persistence.Adapter\obj\Debug\net6.0\microservices.Email.Persistence.Adapter.csproj.CoreCompileInputs.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Email.Persistence.Adapter\obj\Debug\net6.0\microservices.Email.Persistence.Adapter.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Email.Persistence.Adapter\obj\Debug\net6.0\refint\microservices.Email.Persistence.Adapter.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Email.Persistence.Adapter\obj\Debug\net6.0\microservices.Email.Persistence.Adapter.pdb
+D:\Lavoro\microservices-alt\microservices\microservices.Email.Persistence.Adapter\obj\Debug\net6.0\ref\microservices.Email.Persistence.Adapter.dll

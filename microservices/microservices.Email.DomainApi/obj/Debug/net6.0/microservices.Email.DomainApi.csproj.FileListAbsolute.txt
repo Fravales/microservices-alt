@@ -1,0 +1,12 @@
+D:\Lavoro\microservices-alt\microservices\microservices.Email.DomainApi\bin\Debug\net6.0\microservices.Email.DomainApi.deps.json
+D:\Lavoro\microservices-alt\microservices\microservices.Email.DomainApi\bin\Debug\net6.0\microservices.Email.DomainApi.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Email.DomainApi\bin\Debug\net6.0\microservices.Email.DomainApi.pdb
+D:\Lavoro\microservices-alt\microservices\microservices.Email.DomainApi\obj\Debug\net6.0\microservices.Email.DomainApi.csproj.AssemblyReference.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Email.DomainApi\obj\Debug\net6.0\microservices.Email.DomainApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lavoro\microservices-alt\microservices\microservices.Email.DomainApi\obj\Debug\net6.0\microservices.Email.DomainApi.AssemblyInfoInputs.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Email.DomainApi\obj\Debug\net6.0\microservices.Email.DomainApi.AssemblyInfo.cs
+D:\Lavoro\microservices-alt\microservices\microservices.Email.DomainApi\obj\Debug\net6.0\microservices.Email.DomainApi.csproj.CoreCompileInputs.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Email.DomainApi\obj\Debug\net6.0\microservices.Email.DomainApi.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Email.DomainApi\obj\Debug\net6.0\refint\microservices.Email.DomainApi.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Email.DomainApi\obj\Debug\net6.0\microservices.Email.DomainApi.pdb
+D:\Lavoro\microservices-alt\microservices\microservices.Email.DomainApi\obj\Debug\net6.0\ref\microservices.Email.DomainApi.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D0AjgL4hkmwjUQYbmnznNqP7HtzaIa9i5YCkXd+yflBGWNPlIIywlefUQNBQDP2UF72XlJ8o2S1GQHYL/HRASA==",
+  "dgSpecHash": "Y3Qjac4Kdylu93hvmWRrMDQcbREOLHUHwRHocwLnJyynnhL7IiCPbRpK4PlUJvJEUD43KUPVzP/HbPWJLufbWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices\\microservices.Auth.Domain\\microservices.Auth.Domain.csproj",
+  "projectFilePath": "D:\\Lavoro\\microservices-alt\\microservices\\microservices.Auth.Domain\\microservices.Auth.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

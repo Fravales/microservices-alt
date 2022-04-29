@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\fsimeoni\\.nuget\\packages\\": {}
+    "C:\\Users\\gscarcella\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices\\microservices.Auth.Domain\\microservices.Auth.Domain.csproj",
+      "projectUniqueName": "D:\\Lavoro\\microservices-alt\\microservices\\microservices.Auth.Domain\\microservices.Auth.Domain.csproj",
       "projectName": "microservices.Auth.Domain",
-      "projectPath": "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices\\microservices.Auth.Domain\\microservices.Auth.Domain.csproj",
-      "packagesPath": "C:\\Users\\fsimeoni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices\\microservices.Auth.Domain\\obj\\",
+      "projectPath": "D:\\Lavoro\\microservices-alt\\microservices\\microservices.Auth.Domain\\microservices.Auth.Domain.csproj",
+      "packagesPath": "C:\\Users\\gscarcella\\.nuget\\packages\\",
+      "outputPath": "D:\\Lavoro\\microservices-alt\\microservices\\microservices.Auth.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\fsimeoni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gscarcella\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mlr0VaBdPxInvbe2Roz+l0hoBSrXFYSxIfqP72sFwDo=",
+  "Source": "microservices.Email",
+  "BasePath": "_content/microservices.Email",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

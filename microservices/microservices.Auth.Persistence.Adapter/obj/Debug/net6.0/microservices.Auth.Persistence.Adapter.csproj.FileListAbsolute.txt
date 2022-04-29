@@ -1,0 +1,12 @@
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Persistence.Adapter\bin\Debug\net6.0\microservices.Auth.Persistence.Adapter.deps.json
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Persistence.Adapter\bin\Debug\net6.0\microservices.Auth.Persistence.Adapter.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Persistence.Adapter\bin\Debug\net6.0\microservices.Auth.Persistence.Adapter.pdb
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Persistence.Adapter\obj\Debug\net6.0\microservices.Auth.Persistence.Adapter.csproj.AssemblyReference.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Persistence.Adapter\obj\Debug\net6.0\microservices.Auth.Persistence.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Persistence.Adapter\obj\Debug\net6.0\microservices.Auth.Persistence.Adapter.AssemblyInfoInputs.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Persistence.Adapter\obj\Debug\net6.0\microservices.Auth.Persistence.Adapter.AssemblyInfo.cs
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Persistence.Adapter\obj\Debug\net6.0\microservices.Auth.Persistence.Adapter.csproj.CoreCompileInputs.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Persistence.Adapter\obj\Debug\net6.0\microservices.Auth.Persistence.Adapter.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Persistence.Adapter\obj\Debug\net6.0\refint\microservices.Auth.Persistence.Adapter.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Persistence.Adapter\obj\Debug\net6.0\microservices.Auth.Persistence.Adapter.pdb
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Persistence.Adapter\obj\Debug\net6.0\ref\microservices.Auth.Persistence.Adapter.dll

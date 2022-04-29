@@ -1,0 +1,12 @@
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Domain\bin\Debug\net6.0\microservices.Auth.Domain.deps.json
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Domain\bin\Debug\net6.0\microservices.Auth.Domain.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Domain\bin\Debug\net6.0\microservices.Auth.Domain.pdb
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Domain\obj\Debug\net6.0\microservices.Auth.Domain.csproj.AssemblyReference.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Domain\obj\Debug\net6.0\microservices.Auth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Domain\obj\Debug\net6.0\microservices.Auth.Domain.AssemblyInfoInputs.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Domain\obj\Debug\net6.0\microservices.Auth.Domain.AssemblyInfo.cs
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Domain\obj\Debug\net6.0\microservices.Auth.Domain.csproj.CoreCompileInputs.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Domain\obj\Debug\net6.0\microservices.Auth.Domain.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Domain\obj\Debug\net6.0\refint\microservices.Auth.Domain.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Domain\obj\Debug\net6.0\microservices.Auth.Domain.pdb
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.Domain\obj\Debug\net6.0\ref\microservices.Auth.Domain.dll

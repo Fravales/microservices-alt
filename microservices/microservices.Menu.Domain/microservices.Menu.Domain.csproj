@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\microservices.Menu.DomainApi\microservices.Menu.DomainApi.csproj" />
+  </ItemGroup>
+
 </Project>

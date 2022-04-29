@@ -1,0 +1,12 @@
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.RestAdapter\bin\Debug\net6.0\microservices.Auth.RestAdapter.deps.json
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.RestAdapter\bin\Debug\net6.0\microservices.Auth.RestAdapter.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.RestAdapter\bin\Debug\net6.0\microservices.Auth.RestAdapter.pdb
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.RestAdapter\obj\Debug\net6.0\microservices.Auth.RestAdapter.csproj.AssemblyReference.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.RestAdapter\obj\Debug\net6.0\microservices.Auth.RestAdapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.RestAdapter\obj\Debug\net6.0\microservices.Auth.RestAdapter.AssemblyInfoInputs.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.RestAdapter\obj\Debug\net6.0\microservices.Auth.RestAdapter.AssemblyInfo.cs
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.RestAdapter\obj\Debug\net6.0\microservices.Auth.RestAdapter.csproj.CoreCompileInputs.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.RestAdapter\obj\Debug\net6.0\microservices.Auth.RestAdapter.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.RestAdapter\obj\Debug\net6.0\refint\microservices.Auth.RestAdapter.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.RestAdapter\obj\Debug\net6.0\microservices.Auth.RestAdapter.pdb
+D:\Lavoro\microservices-alt\microservices\microservices.Auth.RestAdapter\obj\Debug\net6.0\ref\microservices.Auth.RestAdapter.dll

@@ -1,0 +1,12 @@
+D:\Lavoro\microservices-alt\microservices\microservices.Client.RestAdapter\bin\Debug\net6.0\microservices.Client.RestAdapter.deps.json
+D:\Lavoro\microservices-alt\microservices\microservices.Client.RestAdapter\bin\Debug\net6.0\microservices.Client.RestAdapter.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Client.RestAdapter\bin\Debug\net6.0\microservices.Client.RestAdapter.pdb
+D:\Lavoro\microservices-alt\microservices\microservices.Client.RestAdapter\obj\Debug\net6.0\microservices.Client.RestAdapter.csproj.AssemblyReference.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Client.RestAdapter\obj\Debug\net6.0\microservices.Client.RestAdapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lavoro\microservices-alt\microservices\microservices.Client.RestAdapter\obj\Debug\net6.0\microservices.Client.RestAdapter.AssemblyInfoInputs.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Client.RestAdapter\obj\Debug\net6.0\microservices.Client.RestAdapter.AssemblyInfo.cs
+D:\Lavoro\microservices-alt\microservices\microservices.Client.RestAdapter\obj\Debug\net6.0\microservices.Client.RestAdapter.csproj.CoreCompileInputs.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Client.RestAdapter\obj\Debug\net6.0\microservices.Client.RestAdapter.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Client.RestAdapter\obj\Debug\net6.0\refint\microservices.Client.RestAdapter.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Client.RestAdapter\obj\Debug\net6.0\microservices.Client.RestAdapter.pdb
+D:\Lavoro\microservices-alt\microservices\microservices.Client.RestAdapter\obj\Debug\net6.0\ref\microservices.Client.RestAdapter.dll

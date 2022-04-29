@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "atRQvPrqIK2ySKLgx7krIIECx9AC8NF7CTY9qusSJXs=",
+  "Source": "microservices.Menu",
+  "BasePath": "_content/microservices.Menu",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

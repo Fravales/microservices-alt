@@ -1,0 +1,12 @@
+D:\Lavoro\microservices-alt\microservices\microservices.Menu.DomainApi\bin\Debug\net6.0\microservices.Menu.DomainApi.deps.json
+D:\Lavoro\microservices-alt\microservices\microservices.Menu.DomainApi\bin\Debug\net6.0\microservices.Menu.DomainApi.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Menu.DomainApi\bin\Debug\net6.0\microservices.Menu.DomainApi.pdb
+D:\Lavoro\microservices-alt\microservices\microservices.Menu.DomainApi\obj\Debug\net6.0\microservices.Menu.DomainApi.csproj.AssemblyReference.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Menu.DomainApi\obj\Debug\net6.0\microservices.Menu.DomainApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lavoro\microservices-alt\microservices\microservices.Menu.DomainApi\obj\Debug\net6.0\microservices.Menu.DomainApi.AssemblyInfoInputs.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Menu.DomainApi\obj\Debug\net6.0\microservices.Menu.DomainApi.AssemblyInfo.cs
+D:\Lavoro\microservices-alt\microservices\microservices.Menu.DomainApi\obj\Debug\net6.0\microservices.Menu.DomainApi.csproj.CoreCompileInputs.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Menu.DomainApi\obj\Debug\net6.0\microservices.Menu.DomainApi.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Menu.DomainApi\obj\Debug\net6.0\refint\microservices.Menu.DomainApi.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Menu.DomainApi\obj\Debug\net6.0\microservices.Menu.DomainApi.pdb
+D:\Lavoro\microservices-alt\microservices\microservices.Menu.DomainApi\obj\Debug\net6.0\ref\microservices.Menu.DomainApi.dll

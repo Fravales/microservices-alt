@@ -1,0 +1,12 @@
+D:\Lavoro\microservices-alt\microservices\microservices.Email.RestAdapter\bin\Debug\net6.0\microservices.Email.RestAdapter.deps.json
+D:\Lavoro\microservices-alt\microservices\microservices.Email.RestAdapter\bin\Debug\net6.0\microservices.Email.RestAdapter.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Email.RestAdapter\bin\Debug\net6.0\microservices.Email.RestAdapter.pdb
+D:\Lavoro\microservices-alt\microservices\microservices.Email.RestAdapter\obj\Debug\net6.0\microservices.Email.RestAdapter.csproj.AssemblyReference.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Email.RestAdapter\obj\Debug\net6.0\microservices.Email.RestAdapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lavoro\microservices-alt\microservices\microservices.Email.RestAdapter\obj\Debug\net6.0\microservices.Email.RestAdapter.AssemblyInfoInputs.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Email.RestAdapter\obj\Debug\net6.0\microservices.Email.RestAdapter.AssemblyInfo.cs
+D:\Lavoro\microservices-alt\microservices\microservices.Email.RestAdapter\obj\Debug\net6.0\microservices.Email.RestAdapter.csproj.CoreCompileInputs.cache
+D:\Lavoro\microservices-alt\microservices\microservices.Email.RestAdapter\obj\Debug\net6.0\microservices.Email.RestAdapter.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Email.RestAdapter\obj\Debug\net6.0\refint\microservices.Email.RestAdapter.dll
+D:\Lavoro\microservices-alt\microservices\microservices.Email.RestAdapter\obj\Debug\net6.0\microservices.Email.RestAdapter.pdb
+D:\Lavoro\microservices-alt\microservices\microservices.Email.RestAdapter\obj\Debug\net6.0\ref\microservices.Email.RestAdapter.dll

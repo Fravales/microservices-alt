@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices\\microservices.Auth\\microservices.Auth.csproj": {}
+    "D:\\Lavoro\\microservices-alt\\microservices\\microservices.Auth\\microservices.Auth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices\\microservices.Auth\\microservices.Auth.csproj": {
+    "D:\\Lavoro\\microservices-alt\\microservices\\microservices.Auth\\microservices.Auth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices\\microservices.Auth\\microservices.Auth.csproj",
+        "projectUniqueName": "D:\\Lavoro\\microservices-alt\\microservices\\microservices.Auth\\microservices.Auth.csproj",
         "projectName": "microservices.Auth",
-        "projectPath": "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices\\microservices.Auth\\microservices.Auth.csproj",
-        "packagesPath": "C:\\Users\\fsimeoni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices\\microservices.Auth\\obj\\",
+        "projectPath": "D:\\Lavoro\\microservices-alt\\microservices\\microservices.Auth\\microservices.Auth.csproj",
+        "packagesPath": "C:\\Users\\gscarcella\\.nuget\\packages\\",
+        "outputPath": "D:\\Lavoro\\microservices-alt\\microservices\\microservices.Auth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\fsimeoni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gscarcella\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
