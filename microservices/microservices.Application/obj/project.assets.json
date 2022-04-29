@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices-alt\\microservices.Application\\microservices.Application.csproj",
+      "projectUniqueName": "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices\\microservices.Application\\microservices.Application.csproj",
       "projectName": "microservices.Application",
-      "projectPath": "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices-alt\\microservices.Application\\microservices.Application.csproj",
+      "projectPath": "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices\\microservices.Application\\microservices.Application.csproj",
       "packagesPath": "C:\\Users\\fsimeoni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices-alt\\microservices.Application\\obj\\",
+      "outputPath": "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices\\microservices.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fsimeoni\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "microservices.Api", "microservices-API\microservices.Api.csproj", "{86C76BC4-DC1D-401B-B060-2129E786D1C0}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{95ED8B39-0AD3-40F8-B363-C54401A098C7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{668DB699-C28F-4F4C-8EBB-C84925441ED2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "microservices.Infrastructure", "microservices.Infrastructure\microservices.Infrastructure.csproj", "{8FFB3BF7-16C2-436B-B5E6-C847CE534B38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "microservices.Infrastructure", "microservices.Infrastructure\microservices.Infrastructure.csproj", "{8FFB3BF7-16C2-436B-B5E6-C847CE534B38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "microservices.Application", "microservices.Application\microservices.Application.csproj", "{54DEA18A-A98D-405D-832E-6D29B552634C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "microservices.Application", "microservices.Application\microservices.Application.csproj", "{54DEA18A-A98D-405D-832E-6D29B552634C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "microservices.Api", "microservices.Api\microservices.Api.csproj", "{F5D9FBD5-24DA-4631-9C60-6B5E4A134223}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{86C76BC4-DC1D-401B-B060-2129E786D1C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{86C76BC4-DC1D-401B-B060-2129E786D1C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{86C76BC4-DC1D-401B-B060-2129E786D1C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{86C76BC4-DC1D-401B-B060-2129E786D1C0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8FFB3BF7-16C2-436B-B5E6-C847CE534B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8FFB3BF7-16C2-436B-B5E6-C847CE534B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FFB3BF7-16C2-436B-B5E6-C847CE534B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -31,14 +27,18 @@ Global
 		{54DEA18A-A98D-405D-832E-6D29B552634C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54DEA18A-A98D-405D-832E-6D29B552634C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54DEA18A-A98D-405D-832E-6D29B552634C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5D9FBD5-24DA-4631-9C60-6B5E4A134223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D9FBD5-24DA-4631-9C60-6B5E4A134223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5D9FBD5-24DA-4631-9C60-6B5E4A134223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D9FBD5-24DA-4631-9C60-6B5E4A134223}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{86C76BC4-DC1D-401B-B060-2129E786D1C0} = {95ED8B39-0AD3-40F8-B363-C54401A098C7}
 		{8FFB3BF7-16C2-436B-B5E6-C847CE534B38} = {95ED8B39-0AD3-40F8-B363-C54401A098C7}
 		{54DEA18A-A98D-405D-832E-6D29B552634C} = {95ED8B39-0AD3-40F8-B363-C54401A098C7}
+		{F5D9FBD5-24DA-4631-9C60-6B5E4A134223} = {95ED8B39-0AD3-40F8-B363-C54401A098C7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {18A2F51A-F794-46B6-830C-78FA0D39CA8D}

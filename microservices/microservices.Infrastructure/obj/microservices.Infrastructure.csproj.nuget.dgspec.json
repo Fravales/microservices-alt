@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices-alt\\microservices.Infrastructure\\microservices.Infrastructure.csproj": {}
+    "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices\\microservices.Infrastructure\\microservices.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices-alt\\microservices.Infrastructure\\microservices.Infrastructure.csproj": {
+    "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices\\microservices.Infrastructure\\microservices.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices-alt\\microservices.Infrastructure\\microservices.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices\\microservices.Infrastructure\\microservices.Infrastructure.csproj",
         "projectName": "microservices.Infrastructure",
-        "projectPath": "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices-alt\\microservices.Infrastructure\\microservices.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices\\microservices.Infrastructure\\microservices.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\fsimeoni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices-alt\\microservices.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices\\microservices.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fsimeoni\\AppData\\Roaming\\NuGet\\NuGet.Config",

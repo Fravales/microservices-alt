@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vagCf2djCou2iDxwaTXwnfz2dxlrEq8DseoIK7LWpUnlj+vGvFVNYgkLGF42PmaGksDhMePoHi+njiAwaEU5Bw==",
+  "dgSpecHash": "461CMP+TLP1bxXYiU8s6C5EAOVLgF5nThA/0W1eInJdBiL9mgtIodY6EW2UDRaG+HNrOFJiyCuacphE8KPiQbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices-alt\\microservices.Application\\microservices.Application.csproj",
+  "projectFilePath": "C:\\Users\\fsimeoni\\DevOps\\microservices-alt\\microservices\\microservices.Application\\microservices.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
