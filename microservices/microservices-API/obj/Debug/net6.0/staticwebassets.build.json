@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UMdWZWPYcnv3CF9X7tQQrqMg2bSGmkIy/id57hyRDDo=",
+  "Source": "microservices.API",
+  "BasePath": "_content/microservices.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
